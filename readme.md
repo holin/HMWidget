@@ -4,4 +4,4 @@
 1. 完成初步功能
 
 * 截图
-![效果](./Screenshots/1.png "截图")
+![效果](./Screenshots/1.jpg "截图")
