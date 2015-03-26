@@ -14,6 +14,14 @@
 		3EF652B51AC3984B0040168D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EF652B41AC3984B0040168D /* Images.xcassets */; };
 		3EF652B81AC3984B0040168D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3EF652B61AC3984B0040168D /* LaunchScreen.xib */; };
 		3EF652C41AC3984C0040168D /* HMWidgetTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EF652C31AC3984C0040168D /* HMWidgetTests.m */; };
+		3EF652D01AC39C890040168D /* HMWidgetBox.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EF652CF1AC39C890040168D /* HMWidgetBox.m */; };
+		3EF652D41AC39CD60040168D /* HMWidgetBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EF652D31AC39CD60040168D /* HMWidgetBase.m */; };
+		3EF652D91AC3AF280040168D /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3EF652D61AC3AF280040168D /* 1.jpg */; };
+		3EF652DA1AC3AF280040168D /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3EF652D71AC3AF280040168D /* 2.jpg */; };
+		3EF652DB1AC3AF280040168D /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3EF652D81AC3AF280040168D /* 3.jpg */; };
+		3EF652DE1AC3D3F90040168D /* HMWidgetVerticalFull.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EF652DD1AC3D3F90040168D /* HMWidgetVerticalFull.m */; };
+		3EF652E11AC3D6FC0040168D /* HMWidgetHorizontalOneThree.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EF652E01AC3D6FC0040168D /* HMWidgetHorizontalOneThree.m */; };
+		3EF652E41AC3F1F30040168D /* HMWidgetHorizontalOneThreeOver.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EF652E31AC3F1F30040168D /* HMWidgetHorizontalOneThreeOver.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +48,19 @@
 		3EF652BD1AC3984C0040168D /* HMWidgetTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HMWidgetTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EF652C21AC3984C0040168D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3EF652C31AC3984C0040168D /* HMWidgetTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HMWidgetTests.m; sourceTree = "<group>"; };
+		3EF652CE1AC39C890040168D /* HMWidgetBox.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HMWidgetBox.h; sourceTree = "<group>"; };
+		3EF652CF1AC39C890040168D /* HMWidgetBox.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HMWidgetBox.m; sourceTree = "<group>"; };
+		3EF652D21AC39CD60040168D /* HMWidgetBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HMWidgetBase.h; sourceTree = "<group>"; };
+		3EF652D31AC39CD60040168D /* HMWidgetBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HMWidgetBase.m; sourceTree = "<group>"; };
+		3EF652D61AC3AF280040168D /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		3EF652D71AC3AF280040168D /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		3EF652D81AC3AF280040168D /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		3EF652DC1AC3D3F90040168D /* HMWidgetVerticalFull.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HMWidgetVerticalFull.h; sourceTree = "<group>"; };
+		3EF652DD1AC3D3F90040168D /* HMWidgetVerticalFull.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HMWidgetVerticalFull.m; sourceTree = "<group>"; };
+		3EF652DF1AC3D6FC0040168D /* HMWidgetHorizontalOneThree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HMWidgetHorizontalOneThree.h; sourceTree = "<group>"; };
+		3EF652E01AC3D6FC0040168D /* HMWidgetHorizontalOneThree.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HMWidgetHorizontalOneThree.m; sourceTree = "<group>"; };
+		3EF652E21AC3F1F30040168D /* HMWidgetHorizontalOneThreeOver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HMWidgetHorizontalOneThreeOver.h; sourceTree = "<group>"; };
+		3EF652E31AC3F1F30040168D /* HMWidgetHorizontalOneThreeOver.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HMWidgetHorizontalOneThreeOver.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +102,8 @@
 		3EF652A61AC3984B0040168D /* HMWidget */ = {
 			isa = PBXGroup;
 			children = (
+				3EF652D51AC3AF280040168D /* images */,
+				3EF652CD1AC3999A0040168D /* lib */,
 				3EF652AB1AC3984B0040168D /* AppDelegate.h */,
 				3EF652AC1AC3984B0040168D /* AppDelegate.m */,
 				3EF652AE1AC3984B0040168D /* ViewController.h */,
@@ -117,6 +140,41 @@
 				3EF652C21AC3984C0040168D /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3EF652CD1AC3999A0040168D /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				3EF652D11AC39CBF0040168D /* widgets */,
+				3EF652CE1AC39C890040168D /* HMWidgetBox.h */,
+				3EF652CF1AC39C890040168D /* HMWidgetBox.m */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		3EF652D11AC39CBF0040168D /* widgets */ = {
+			isa = PBXGroup;
+			children = (
+				3EF652D21AC39CD60040168D /* HMWidgetBase.h */,
+				3EF652D31AC39CD60040168D /* HMWidgetBase.m */,
+				3EF652DC1AC3D3F90040168D /* HMWidgetVerticalFull.h */,
+				3EF652DD1AC3D3F90040168D /* HMWidgetVerticalFull.m */,
+				3EF652DF1AC3D6FC0040168D /* HMWidgetHorizontalOneThree.h */,
+				3EF652E01AC3D6FC0040168D /* HMWidgetHorizontalOneThree.m */,
+				3EF652E21AC3F1F30040168D /* HMWidgetHorizontalOneThreeOver.h */,
+				3EF652E31AC3F1F30040168D /* HMWidgetHorizontalOneThreeOver.m */,
+			);
+			path = widgets;
+			sourceTree = "<group>";
+		};
+		3EF652D51AC3AF280040168D /* images */ = {
+			isa = PBXGroup;
+			children = (
+				3EF652D61AC3AF280040168D /* 1.jpg */,
+				3EF652D71AC3AF280040168D /* 2.jpg */,
+				3EF652D81AC3AF280040168D /* 3.jpg */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -200,6 +258,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				3EF652B31AC3984B0040168D /* Main.storyboard in Resources */,
+				3EF652D91AC3AF280040168D /* 1.jpg in Resources */,
+				3EF652DA1AC3AF280040168D /* 2.jpg in Resources */,
+				3EF652DB1AC3AF280040168D /* 3.jpg in Resources */,
 				3EF652B81AC3984B0040168D /* LaunchScreen.xib in Resources */,
 				3EF652B51AC3984B0040168D /* Images.xcassets in Resources */,
 			);
@@ -219,9 +280,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3EF652E41AC3F1F30040168D /* HMWidgetHorizontalOneThreeOver.m in Sources */,
 				3EF652B01AC3984B0040168D /* ViewController.m in Sources */,
 				3EF652AD1AC3984B0040168D /* AppDelegate.m in Sources */,
+				3EF652D41AC39CD60040168D /* HMWidgetBase.m in Sources */,
+				3EF652D01AC39C890040168D /* HMWidgetBox.m in Sources */,
+				3EF652E11AC3D6FC0040168D /* HMWidgetHorizontalOneThree.m in Sources */,
 				3EF652AA1AC3984B0040168D /* main.m in Sources */,
+				3EF652DE1AC3D3F90040168D /* HMWidgetVerticalFull.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
